@@ -1,0 +1,207 @@
+<heml>
+  <head>
+    <subject>QSP Newsletter - Quality Matters</subject>
+		<preview>AG NEWSLETTER - QSP Monthly Newsletter for January 2018 - January is ReDo Awareness Month</preview>
+    <style>
+			body{
+				font-family: Montserrat, Arial, Helvetica, san-serif;
+				color: #5f6369;
+			}
+			.text-center{
+				text-align: center;
+			}
+			.head{
+				font-size: 4.5em;
+				text-align: center;
+				color: white;
+			}
+			.head span{
+				font-weight: 400;
+			}
+			#remind li{
+				font-size: .8em;
+				font-weight: 600;
+			}
+			#remind_sub li{
+				font-weight: 400;
+			}
+			#recap{
+				margin-top: 2em;
+			}
+			#recap li{
+				font-color: white;
+				font-size: 1.1em;
+				margin-bottom: .5em;
+				margin-left: 1em;
+			}
+			.quoteTxt p{
+				font-weight: 600;
+				font-size: .8em;
+			}
+    </style>
+		<font href="https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700,800" />
+  </head>
+  <body>
+    <container>
+			<table>
+				<tr>
+					<td background="http://xmpl.xmpiecloud.com/XMPieWSAPI/ASPXBridge/Document/DownloadResource.ashx?EncryptedParameters=Y9vsS6WI2z3on2j2Ossr3O%2fpxORqjjKe&amp;DocumentId=18671&amp;ResourceID=img/header2.jpg" bgcolor="#e32726" width="600" height="312" valign="top">
+					<!--[if gte mso 9]>
+					<v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:600px;height:312px;">
+						<v:fill type="tile" src="http://xmpl.xmpiecloud.com/XMPieWSAPI/ASPXBridge/Document/DownloadResource.ashx?EncryptedParameters=Y9vsS6WI2z3on2j2Ossr3O%2fpxORqjjKe&amp;DocumentId=18671&amp;ResourceID=img/header2.jpg" color="#e32726" />
+						<v:textbox inset="0,0,0,0">
+					<![endif]-->
+					<div>
+						<div style="padding-top: 5em; padding-left: .5em; padding-right: .5em;">
+							<h1 class="head">Quality<span>Matters</span></h1>
+							<h3 align="right" style="text-align:right;color:white;padding-right: 1em;">QSP Monthly Newsletter</h3>
+							<h5 align="right" style="text-align:right;color:#6b0d0e;font-weight:800; margin-top: -1em;padding-right: 1.5em;">JANUARY 2018</h5>
+							<p style="color:white; font-weight: 600;padding-left: 1.5em; font-size: .8em;">“Customers don’t measure you on how hard you tried. <br>They measure you on what you deliver.”<br><i style="font-weight:400">-Steve Jobs</i></p>
+						</div>
+					</div>
+					<!--[if gte mso 9]>
+					</v:textbox>
+					</v:rect>
+					<![endif]-->
+					</td>
+				</tr>
+			 </table>
+
+			<row>
+				<column><marquee><h1 style="font-weight: 600; margin-top: .5em; margin-bottom: 0" class="text-center">January is ReDo Awareness Month!</h1></marquee></column>
+			</row>
+			<row>
+				<column large="7" small="7">
+					<table>
+						<tr>
+							<td background="http://xmpl.xmpiecloud.com/XMPieWSAPI/ASPXBridge/Document/DownloadResource.ashx?EncryptedParameters=Y9vsS6WI2z3on2j2Ossr3O%2fpxORqjjKe&amp;DocumentId=18671&amp;ResourceID=img/Target.jpg" bgcolor="white" width="600" height="10" valign="top" style="background-repeat:no-repeat; width: 100%; background-size: 140px; background-position: top right">
+							<!--[if gte mso 9]>
+							<v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:600px;height:10px;">
+								<v:fill type="tile" src="http://xmpl.xmpiecloud.com/XMPieWSAPI/ASPXBridge/Document/DownloadResource.ashx?EncryptedParameters=Y9vsS6WI2z3on2j2Ossr3O%2fpxORqjjKe&amp;DocumentId=18671&amp;ResourceID=img/Target.jpg" color="white" />
+								<v:textbox inset="0,0,0,0">
+							<![endif]-->
+							<div>
+								<div>
+									<h1 style="color:#ee3123; line-height: 1em; font-size:1.9em;">ReDo Goal:<br>LEAN Standard is 2%</h1>
+								</div>
+							</div>
+							<!--[if gte mso 9]>
+							</v:textbox>
+							</v:rect>
+							<![endif]-->
+							</td>
+						</tr>
+					 </table>
+					<hr>
+					<h2 style="color:#ee3123; line-height: .2em;">QSP Reminder:</h2>
+					<ul id="remind">
+						<li>Entering a ReDo in PS. (This is the same process for internal and external because these areas pull on the ReDo report for proper tracking.)</li><br>
+						<li>All on the main account information screen:</li>
+						<li style="list-style:none;">
+							<ul style="list-style:none;" id="remind_sub">	
+								<li>- Title should read: ReDo_external or internal (whichever it may be)_original job #_month the ReDo occurred</li><br>
+								<li>- Resale #: list the client cost of the redo (what they would have paid)</li><br>
+								<li>- Special Instructions: Leave **Key Account** if it is listed then add the reason for the ReDo.</li>
+							</ul>
+						</li>
+					</ul>
+					<br>
+					<hr>
+				</column>
+				<column large="5" small="5">
+					<div style="background: #fcd6d3; vertical-align: center; margin-top: 1.5em; margin-left: 1em;">
+						<img src="img/tip2.jpg" infer style="background: #fcd6d3;"/>
+						<h3 class="text-center" style="font-weight:800; font-size:1.49em;">Read your ticket<br> back to front!</h3>
+						<div style="padding: 10px;">						
+							<img src="img/video_thumb.jpg" infer/>
+						</div>
+						<h2 class="text-center" style="font-weight:800; line-height: .8em; color: white; padding-bottom: .9em;">WOULD YOU <span style="font-size: .88em;"><br>LOOK AT THIS?</span></h2>
+					</div>
+				</column>
+			</row>
+			<div style="background: #ebebec; padding: 2em;">
+				<row style="background:#ebebec">
+					<column><h3 class="text-center" style="color:#ee3123;">How does a ReDo Impact AG? (In our Team’s Words):</h3></column>
+				</row>
+				<row style="background:#ebebec">
+					<column small="12" large="12">
+						<img src="img/lQuote.png" style="width:60px; padding-left: 1em; padding-right: .5em; float:left;"/><span class="text-center" style="color:white;float:left;font-size: 3em; padding-top: .3em; font-weight:800;">Internal ReDos</span>
+					</column>
+				</row>
+				<row style="background:#ebebec">
+					<column large="2" small="2">
+					</column>
+					<column large="10" small="10" class="quoteTxt">
+						<p>“A redo impacts all departments across the board in one way or another.”</p>
+						<p>“Disrupts production, financial cost, morale suffers.”</p>
+						<p>“This wastes the time of all team members related to the project, and it costs us money.”</p>
+						<p>“It affects the schedule of jobs, because now we have to fit a job that was already completed back into the schedule.”</p>
+					</column>
+				</row>
+				<br>
+				<hr>
+				<row style="background:#ebebec">
+					<column large="12" small="12">
+						<img src="img/rQuote.png" style="width:60px; padding-left: 1em; padding-right: .5em; float:right;"/><span class="text-center" style="color:white;float:right;font-size: 3em; padding-top: .3em; font-weight:800;">External ReDos</span>
+					</column>
+				</row>
+				<row style="background:#ebebec">
+					<column large="2" small="2">
+					</column>
+					<column large="9" small="9" class="quoteTxt">
+						<p>“It threatens the relationship that we have with the client and may tarnish our reputation beyond that if the client speaks negatively of AlphaGraphics to others.”</p>
+						<p>“Every time we make a mistake, we also have an opportunity to make it right for the customer when handled in the correct way and win them back.” </p>
+						<p>“Easy answer: it affects profitability and client trust.”</p>
+					</column>
+				</row>
+
+			</div>
+			<br>
+			<block style="background:#5f6369;" >
+				<p class="text-center" style="color:white; font-size: 1em;">NonCons Recorded in 2017: <b style="color:#ee3123;">328</b><br><br>NonCons Recorded in December 2017: <b style="color:#ee3123;">8</b></p>
+			</block>
+			
+			<row>
+				<column large="4" small="4">
+					<img style="padding-left: 1em;" src="img/Facts.jpg" infer/>
+				</column>
+				<column large="8" small="8" style="padding-left: 1em;">
+					<h3 style="padding-top: 1.5em; color:#ee3123;">Just the Facts - December 2017:</h3>
+					<row style="font-size: .8em; font-weight: 600;">
+						<column large="6" small="6">•Invoices: 582</column>
+						<column large="6" small="6">•Revenue: $457,821 (PS1)*</column>
+					</row>					
+					<row style="font-size: .8em;font-weight: 600;">
+						<column large="6" small="6">•WIP Turn: 1.5</column>
+						<column large="6" small="6">•Late (Shipping): &lt;2% (10)</column>
+					</row>
+					<br>
+					<block style="font-size: .8em;font-weight: 600;">•ReDos: Total 2.5% (15), &lt;1% ($2,883)<br> Internal &lt;2% (11), &lt;1% ($2,587) External &lt;1% (4), &lt;1% ($296) </block>
+				</column>
+			</row>
+			
+			<row>
+				<column large="7" small="7" style="background:#ee3123; color:white;" >
+					<ul id="recap">
+						<li>Invoices: 9,444</li>
+						<li>Revenue: $5,652,285 (PS1)*</li>
+						<li>ReDos: 2.5% (233), &lt;1% ($55,827)</li>
+					</ul>
+				</column>
+				
+				<column large="5" small="7">
+					<img src="img/Recap.jpg" infer/>
+				</column>
+			</row>
+			
+			<block>
+				<p style="font-size: .8em">*Revenue without postage and shipping.</p>
+				<br><br>
+			</block>
+			<block>
+				<img src="img/ag-logo.png" style="margin:auto;" infer/>
+				<p class="text-center" style="font-size: .6em;">If you no longer wish to receive emails from {{XMPie.Email.Sender.BusinessName}},<br>please <a href="{{XMPie.Email.Commercial.UnsubscribeURL}}" style="color:#5f6369;text-decoration:none;">click here to unsubscribe.</a><br>You can reply to this email, or contact us via postal mail at:<br>{{XMPie.Email.Sender.Address}} {{XMPie.Email.Sender.City}}, {{XMPie.Email.Sender.State}}, {{XMPie.Email.Sender.ZIPCode}} {{XMPie.Email.Sender.Country}}</p>
+			</block>
+    </container>
+  </body>
+</heml>
