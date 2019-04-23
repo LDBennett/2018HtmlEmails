@@ -1,0 +1,224 @@
+<mjml>
+
+  <mj-head>
+
+    <mj-attributes>
+      <mj-text align="left" color="#75787B" font-family="Montserrat, Arial, Helvetica, sans-serif" />
+      <mj-container background-color="white" />
+      <mj-section background-color="#fff" />
+      <mj-class name="red" color="#DA291C" />
+      <mj-class name="grey" color="#75787B" />
+      <mj-class name="l-grey" color="#D3D3D4"/>
+	
+    </mj-attributes>
+    
+    <mj-font name="Raleway" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800" />
+    <mj-style inline="inline">
+      /*Helps with the padding of the uls*/
+      ul{
+      	padding-left:15px;
+      	margin-top:0px;
+      	margin-bottom: 9px;
+      	padding-right:2px;
+      }
+      li{
+      	margin-top: 0px;
+      	maring-bottom: 0px;
+      }
+      /*Staff BG using CSS*/
+      .staff-bg{
+      	background:url('https://www.agpittsburgh.com/hosted/_email/2018QSP/Light.png') no-repeat;
+      	background-size: 70px;
+     		background-position: 98% 0%;
+      }
+      /*White number*/
+      .w-num{
+        color:white;
+        font-size: 16px;
+      }
+    </mj-style>
+    <mj-style>
+      /*For those email clients that accept media queries*/
+      @media all and (max-width: 480px){
+      	/*Shrinks fonts for smaller widths*/
+      	.header{
+      		font-size: 35px !important;
+      	}
+      	#quote{
+      		font-size: 8px !important;
+      	}
+      	.header2{
+      		font-size: 25px !important;
+      		line-height: 100% !important; 
+      	}
+        .header3 td{
+					padding:0px !important;
+        }
+      	.header3 span{
+      		font-size: 18px !important;
+      		line-height: 100% !important; 
+      		padding:0;
+      	}
+      }
+    </mj-style>
+    <!--Preview Line Code
+		It uses a snippet to add space after the text line-->
+    <mj-preview>AlphaGraphics Pittsburgh QSP Newsletter - April 2018 | Quality Matters | Quality Control Month
+ 			<mj-include path="../_snippets/MJML/footer/spacing.mjml" />
+    </mj-preview>
+  </mj-head>
+
+  <mj-body font-family="Montserrat">
+    <mj-container>
+			<!--Image Header with Hero-->
+      <mj-raw>
+        <!--Needed to make background red if email client doesn't support BG images-->
+        <!--[if mso | IE]>
+        <table role="presentation" border="0" cellpadding="30" cellspacing="0" width="600" align="center" style="width:100%;" background="#DA291C">
+          <tr>
+            <td align="center" style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;background-color:#DA291C;width:100%;">
+        <![endif]-->
+      </mj-raw>
+      <mj-hero
+        background-url="https://www.agpittsburgh.com/hosted/_email/header2.jpg"
+        background-color="#DA291C"
+        background-position="top center"
+        padding="100px 0px 8px 0px">
+      	<mj-hero-content padding="0">
+          <mj-text color="white" padding="0px" line-height="1" align="center">
+            <span class="header" style="font-size: 76px;font-weight:600; text-align:center;">Quality<span style="font-weight:300">Matters</span></span>
+            <p align="right" style="text-align:right;color:white;padding-right:.3em;line-height: 18px;font-size: 18px;font-weight: 600; padding-right: 20px;">QSP Monthly Newsletter<br><span style="color:#6b0d0e;font-weight:800;">April 2018</span></p>
+            <p align="left" style="color:white; font-weight: 400; font-size: 12px; width: 60%;line-height:150%;padding-left:20px;" id="quote">“Every job is a self-portrait of the person who did it. Autograph your work with excellence.”</p>
+          </mj-text>
+        </mj-hero-content>	
+      </mj-hero>
+			<mj-raw>
+        <!--[if mso | IE]>
+          </tr></td></table>
+        <![endif]-->
+      </mj-raw>
+
+      <!--Header Text-->
+      <mj-section padding-bottom="0">
+        <mj-column>
+          <mj-text font-size="35px" line-height="28px" align="center" font-weight="600" color="#5F6369" padding-bottom="15px">
+        		<span class="header2">Quality Control Month!</span>
+          </mj-text> 
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+      	<mj-column>
+          <mj-text align="center" padding="0px 60px" line-height="100%" font-size="20px" mj-class="red" font-weight="400" css-class="header3">
+            <span>Being the Ideal Team Player helps AG get to the next level with quality.</span>
+          </mj-text>
+        </mj-column>  
+      </mj-section>
+        
+      <mj-section padding-bottom="0" padding-top="0">
+        <mj-column width="56%" css-class="header-bg">
+         	<mj-image src="https://agpittsburgh.com/hosted/_email/2018QSP/April/idealPlayerDia.png" padding="0px 20px" alt="diagram of the Ideal Player"/>
+          <mj-text padding-top="0" padding-bottom="0">
+            <ul style="padding-right: 0px; margin-top: 0;">
+							<li>Are you hungry, do you go beyond what is required or are you hoping the next person catches it or does what is needed?</li>
+              <li>Are you humble, do you need all the accolades or are you helping build the team with your skills? </li>
+              <li>Are you smart, are you truly listening and engaged in the internal and external client needs or have you mentally moved on to the next big thing?</li>
+            </ul>
+          </mj-text>
+        </mj-column>
+
+        <mj-column width="36%" background-color="white" vertical-align="top" border-top="24px solid white">
+          <mj-text padding="50px 14px" align="center" font-size="15px" font-weight="300" line-height="1" container-background-color="#5B6770" color="white">
+            <span style="line-height:100%; font-size:20px"><b>QUALITY</b><br><i style="font-size:12px">qual·i·ty \ ˈkwä-lə-tē \</i></span><br>A Degree of Excellence
+          </mj-text>
+          <mj-spacer height="25px"/>
+          <mj-divider container-background-color="#FCD6D3" padding="1px" border-color="#FCD6D3"/>
+          <mj-image src="https://agpittsburgh.com/hosted/_email/2018QSP/Tip.jpg" padding="0" alt="QSP tip of the month header" container-background-color="#FCD6D3"/>
+          <mj-text padding="26px 14px" align="center" font-size="20px" font-weight="600" line-height="1" container-background-color="#FCD6D3">
+            <span style="line-height:120%">Utilize the Benchmark Binder!</span>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+           
+        <mj-section padding="0 0 10px 0" border-top="solid 10px white" background-color="#DA291C">
+          <mj-column>
+            <mj-text font-size="35px" padding-top="10" padding-bottom="0" align="center" font-weight="700" line-height="100%" color="white">
+              <span class="header2">What are some steps that we take at AG for quality?</span>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+        <mj-section padding-top="5" padding-bottom="10" background-color="#DA291C">
+          <mj-column width="48%" >
+            <mj-text align="center" font-weight="800" padding="0 0 10px 10px" font-size="13px" line-height="150%" color="white">
+              - Meeting for excellence<br>
+              - Reading our tickets<br>
+              - KickOff Meetings<br>
+              - Learning from non-conformances
+            </mj-text>
+          </mj-column>
+          <mj-column width="48%" >
+            <mj-text align="center" font-weight="800" padding="0 15px 14px 0" font-size="13px" line-height="150%" color="white">
+              - Talking with seasoned members of our team for insight and experience<br>
+              - Best Practices
+            </mj-text>
+          </mj-column>
+            
+        </mj-section>
+            
+      <mj-wrapper background-color="#D3D3D4" padding-top="0" padding-bottom="10px">
+        
+        <mj-section background-color="#D3D3D4" padding-top="0" padding-bottom="0">
+          
+          <mj-column css-class="staff-bg">
+            <mj-divider container-background-color="white" padding="5px" border-color="white"/>
+            <mj-text color="#DA291C" align="center" font-size="35px" font-weight="800" padding-top="30px" line-height="100%">
+              <span>Staff Spotlight</span><br>
+              <span style="color:white; font-size:25px;">Kristin Needham</span>
+            </mj-text>
+          </mj-column>  
+        </mj-section>
+          
+        <mj-section background-color="#D3D3D4" padding="0">
+          <mj-column>
+            <mj-text align="center" padding="0">*Check out the staff spotlight in the kitchen</mj-text>
+          </mj-column> 
+        </mj-section>
+          
+      </mj-wrapper>
+      
+      <mj-section background-color="#5B6770" padding="0" border-top="solid 15px white">
+        <mj-column>
+          <mj-text align="center" color="white" color="#5B6770" font-size="18px">
+            <p style="line-height:2em;">NonCons recorded in March: <br><span style="font-weight:800;color:#DA291C;font-size:40px;">27</span></p>
+            <p style="font-size: 12px; padding:0;">1 Good Catch, 2 Process Suggestions</p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+        
+      <mj-section>
+        <mj-column width="35%">
+          <mj-image width="300" src="https://agpittsburgh.com/hosted/_email/2018QSP/Facts.jpg" alt="facts icon"/>
+        </mj-column>
+        <mj-column width="65%">
+          <mj-text align="left" line-height="18px" font-size="15px">
+            <span style="color:#DA291C; font-size: 18px; font-weight: bold;">Just the Facts - March 2018:</span>
+            <ul>
+              <li>Invoices - 802</li>
+              <li>WIP Turn - 3.0</li>
+              <li>Revenue – $423,549 (PS1)</li>
+              <li>Late (shipping) – 2.8% / 3% <small>(23 invoices)</small></li>
+              <li>ReDos (LEAN standard is 2%)
+                <ul type="square">
+                  <li>Internal: 1.4% (12) | <small>&lt;1% ($1284)</small></li>
+                  <li>External: &lt;1% (2) | <small>&lt;1% ($155)</small></li>
+                  <li>Total: 1.7% (14) | <small>&lt;1% ($1439)</small></li>
+                  <li>Large Format:<br>7 out of the 14 (50%), 26% ($379)</li>
+                </ul>
+              </li>
+            </ul>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-container>
+  </mj-body>
+
+</mjml>

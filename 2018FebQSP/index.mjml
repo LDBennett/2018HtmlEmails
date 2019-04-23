@@ -1,0 +1,159 @@
+<mjml>
+
+  <mj-head>
+
+    <mj-attributes>
+      <mj-text align="left" color="#75787B" font-family="Montserrat, Arial, Helvetica, sans-serif" />
+      <mj-container background-color="white" />
+      <mj-section background-color="#fff" />
+      <mj-class name="red" color="#DA291C" />
+      <mj-class name="grey" color="#75787B" />
+
+    </mj-attributes>
+    
+    <mj-font name="Raleway" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800" />
+    <mj-style inline="inline">
+      .tab{ padding-right: 3em; }
+      ul{
+      	padding-left:30px;
+      }
+      .staff-bg{
+      	background:url('https://www.agpittsburgh.com/hosted/_email/2018QSP/Light.png') no-repeat;
+      	background-size: 70px;
+     		background-position: 98% 0%;
+      }
+      #staff small{color: #75787B; font-weight: 400; font-size:15px;}
+      #staff span{font-weight: 800;}
+    </mj-style>
+    <mj-preview>AGPittsburgh QSP Newsletter for February 2018 &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;</mj-preview>
+  </mj-head>
+
+  <mj-body font-family="Montserrat">
+    <mj-container>
+			<!--Image Header with Hero-->
+      <mj-hero
+        background-url="https://www.agpittsburgh.com/hosted/_email/header2.jpg"
+        background-height="20px"
+        background-color="#DA291C"
+        background-position="top center"
+        padding="100px 0px 20px 0px">
+      	<mj-hero-content>
+          <mj-text color="white" padding="0px 20px" line-height="1">
+            <span style="font-size: 76px;font-weight:600">Quality<span style="font-weight:300">Matters</span></span>
+            <p align="right" style="text-align:right;color:white;padding-right:.3em;line-height: 18px;font-size: 1.3em;font-weight: 600">QSP Monthly Newsletter<br><span style="color:#6b0d0e;font-weight:800;">February 2018</span></p>
+            <p align="left" style="color:white; font-weight: 400; font-size: 12px; width: 60%;line-height:14px;">“We are here to learn from our mistakes, but if we are not learning, there are just mistakes day after day, year after year, until a life goes by.” <i style="font-weight:300">-John de Ruiter</i></p>
+          </mj-text>
+        </mj-hero-content>	
+      </mj-hero>
+
+      <mj-section>
+        <mj-column width="60%" css-class="header-bg">
+          
+          <mj-text align="left" padding="0px 18px" line-height="100%" font-size="45px">
+            <img src="https://www.agpittsburgh.com/hosted/_email/2018QSP/ticket.png" width="63" style="width:63px;float:left; padding-right:18px;" alt="ticket icon" align="left"/>
+            <span style="color:#DA291C; font-weight: 600;padding-top:0;">Ticket<br><span style="padding-left:67px">Trends</span></span>
+          </mj-text>
+          <mj-text line-height="20px">
+            <ul>
+              <li>Single / Double sided</li>
+              <li>Folds </li>
+              <li>How many pages does it have? Is content being added? Does that change the page count?</li>
+              <li>Job Notes: Who does this PDF Proof to? Where does it ship?</li>
+              <li>Bindery charges</li>
+              <ul type="circle" style="font-weight:300;">
+                <li>What is happening to the job?</li>
+                <ul type="square">
+                  <li>Is it...cutting, folding, collating?</li>
+                  <li>What size it is now? What size does it need to be? Does this size fit our equipment?</li>
+                  <li>Does it mount to substrate?</li>
+                </ul>
+              </ul>
+            </ul>
+          </mj-text>
+        </mj-column>
+
+        <mj-column width="40%" background-color="#FCD6D3" vertical-align="top">
+          <mj-image src="https://agpittsburgh.com/hosted/_email/2018QSP/Tip.jpg" padding="0" alt="QSP tip of the month header"/>
+          <mj-text padding="0px 14px" align="center" font-size="20px" font-weight="600" line-height="1">
+            <span style="line-height:20px">Initial the ticket you are working on.<br><br>Your name is now attached to that job.</span><br><br><br>
+            <span style="color:white; font-size:37px;padding-top:.2em; font-weight: 700">OWN IT!</span>
+          </mj-text>
+          <mj-spacer height="30px"/>
+        </mj-column>
+      </mj-section>
+			
+      <mj-wrapper background-color="#ebebec" padding-top="0">
+        
+        <mj-section background-color="#ebebec" padding-top="0" padding-bottom="0">
+          <mj-column css-class="staff-bg">
+            <mj-text color="#DA291C" align="center" font-size="50px" font-weight="800" padding-top="30px" line-height="100%">
+              <span>Staff Spotlight</span><br>
+              <span style="color:white; font-size:30px;">Olga Mendenhall</span>
+            </mj-text>
+          </mj-column>  
+        </mj-section>
+            
+        <mj-section background-color="#ebebec" padding="0">
+          <mj-column>
+            <mj-image src="https://agpittsburgh.com/hosted/_email/2018QSP/staff_OM.jpg" padding="10px 16px 0px 10px" alt="Olga Mendenhall"/>
+          </mj-column>
+          <mj-column vertical-align="top">
+          	<mj-text mj-class="red" padding="7px 30px 0px 10px" line-height="20px" font-size="19px">
+              <div id="staff">
+            		<span>Favorite Food<br>
+                  <small>"I can’t get enough of Tom Yum soup and I love breakfast sandwiches."</small>
+               	</span><br><br>
+            		<span>Favorite Hobby  <br>
+                  <small>"Painting and walking Socrates"</small>
+               	</span><br><br>
+            		<span>Fun Fact<br>
+                  <small>"I did two summers of excavation of historic sites while in college and met my husband there."</small>
+               	</span><br><br>
+            		<span>What do you want to be when you grow up?  <br>
+                  <small>"Traveler or Singer"</small>
+               	</span><br><br>
+            		<span>Favorite Thing About AG  <br>
+                  <small>"The people. It feels like a supportive family and I have the ability to improve and evolve."</small>
+               	</span>
+              </div>
+            </mj-text>
+            <mj-spacer height="25px"/>      
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+      
+      <mj-section background-color="#5B6770" padding="0">
+        <mj-column>
+          <mj-text align="center" color="white" color="#5B6770" font-size="16px">
+            <p style="line-height:2em;">NonCons recorded in January because <br>of tickets (incorrect, not reading, etc): <br><span style="font-weight:800;color:#DA291C;font-size:2em;">11</span><br>
+            <small>That is 30% of the NonCons recorded for January!</small></p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+        
+      <mj-section>
+        <mj-column width="30%">
+          <mj-image width="300" src="https://agpittsburgh.com/hosted/_email/2018QSP/Facts.jpg" alt="facts icon"/>
+        </mj-column>
+        <mj-column>
+          <mj-text align="left" line-height="16px">
+            <span style="color:#DA291C; font-size: 16px; font-weight: bold;">Just the Facts - January 2018:</span>
+            <ul>
+              <li>Invoices - 715</li>
+              <li>WIP Turn - 1.7</li>
+              <li>Revenue – $426k PS1</li>
+              <li>Late (shipping) – 1% <small>(7 jobs late)</small></li>
+              <li>ReDos (combined internal & external)
+                <ul type="square">
+                  <li>4% of invoices</li>
+                  <li>2% of revenue (PS1)</li>
+                </ul>
+            </ul>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+    </mj-container>
+  </mj-body>
+
+</mjml>
